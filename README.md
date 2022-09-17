@@ -1,1 +1,1 @@
-I am editing the README file. Adding some more details about the project description.
+Integrating a Web Map Service of meteorological predictions (Temperature, Precipitation, Snow, Wind speed, Humidity) from MeteoFrance.
